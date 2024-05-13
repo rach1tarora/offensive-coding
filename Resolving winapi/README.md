@@ -1,3 +1,6 @@
+
+## Resolving Functions at runtime
+
 The C code demonstrates how to dynamically resolve the address of the `MessageBoxA` function from the `user32.dll` library at runtime using `GetProcAddress` and `LoadLibrary`. This method allows the function to be used without statically linking it in the program, which is often visible in the Import Address Table (IAT) of the executable.
 
 Here’s the explanation of how it works:
