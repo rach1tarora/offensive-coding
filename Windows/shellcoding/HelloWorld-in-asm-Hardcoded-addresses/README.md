@@ -35,6 +35,6 @@ We will also use the following steps to compile and execute the assembly code:
    const char main[] = "shellcode";
    ```
 
-Once you do that, for resolving the hardcoded addresses, you can use `resolver.exe`. I will provide the .c file as well if you want to see the code, and also the object file if you need that.
+Once you do that, for resolving the hardcoded addresses, you can use `resolver.exe`. I will provide the .c file as well if you want to see the raw code.
 
 You can then visualize what is happening in IDA.
