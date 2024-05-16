@@ -6,6 +6,6 @@ Trying to keep up my coding skills
   * [programs/](./Windows/programs)
     * [Resolving-functions-at-runtime/](./Windows/programs/Resolving-functions-at-runtime)
   * [shellcoding/](./Windows/shellcoding)
-    * [HelloWorld-in-asm-Hardcoded-addresses/](./Windows/shellcoding/HelloWorld-in-asm-Hardcoded-addresses)
-    * [HelloWorld-in-asm-Resolving-addresses-at-runtime/](./Windows/shellcoding/HelloWorld-in-asm-Resolving-addresses-at-runtime)
+    * [hardcoded-addr-shellcode/](./Windows/shellcoding/hardcoded-addr-shellcode)
+    * [dynamic-resolving-shellcode/](./Windows/shellcoding/dyamic-resolving-shellcode)
 * [README.md](./README.md)
