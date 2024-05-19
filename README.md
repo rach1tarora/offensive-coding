@@ -9,6 +9,6 @@ Trying to keep up my coding skills
     * [hardcoded-addr-shellcode/](./Windows/shellcoding/hardcoded-addr-shellcode)
     * [dynamic-resolving-shellcode/](./Windows/shellcoding/dynamic-resolving-shellcode)
   * [process_injection/](./Windows/process_injection)
-    * [/KernelCallbackTable/](./Windows/process_injection/KernelCallbackTab)
+    * [KernelCallbackTable/](./Windows/process_injection/KernelCallbackTable)
 
 * [README.md](./README.md)
