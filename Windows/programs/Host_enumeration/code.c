@@ -7,7 +7,7 @@ typedef NTSYSAPI NTSTATUS(WINAPI* procRtlGetVersion)(PRTL_OSVERSIONINFOW lpVersi
 #define STATUS_SUCCESS 0x00000000
 
 int main() {
-    // Get the username
+    // Get the username 
     {
         char userName[UNLEN + 1];
         DWORD userNameLength = UNLEN + 1;
@@ -20,7 +20,7 @@ int main() {
         }
     }
 
-    // Get the hostname
+    // Get  hostname
     {
         char hostName[UNLEN + 1];
         DWORD hostNameLength = UNLEN + 1;
