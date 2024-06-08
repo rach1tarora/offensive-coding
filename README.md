@@ -7,6 +7,7 @@ Sure, here is the updated structure:
 * [Windows/](./Windows)
   * [programs/](./Windows/programs)
     * [Resolving-functions-at-runtime/](./Windows/programs/resolving-functions-runtime)
+    * [Host_enumeration/](./Windows/programs/Host_enumeration)
   * [shellcoding/](./Windows/shellcoding)
     * [hardcoded-addr-shellcode/](./Windows/shellcoding/hardcoded-addr-shellcode)
     * [dynamic-resolving-shellcode/](./Windows/shellcoding/dynamic-resolving-shellcode)
