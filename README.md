@@ -2,8 +2,6 @@
 
 Trying to keep up my coding skills
 
-Sure, here is the updated structure:
-
 * [Windows/](./Windows)
   * [programs/](./Windows/programs)
     * [Resolving-functions-at-runtime/](./Windows/programs/resolving-functions-runtime)
