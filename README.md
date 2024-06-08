@@ -2,7 +2,7 @@
 
 Trying to keep up my coding skills
 
-<h3> **Windows** </h3>
+<h3> Windows </h3>
 
 * [Windows/](./Windows)
   * [programs/](./Windows/programs)
@@ -15,7 +15,7 @@ Trying to keep up my coding skills
     * [KernelCallbackTable/](./Windows/process_injection/KernelCallbackTable)
 
 
-<h3> **PortSwigger** </h3>
+<h3> PortSwigger Labs </h3>
 
 * [portswigger_python_scripts/](./portswigger_python_scripts)
   * [authentication/](./portswigger_python_scripts/authentication)
