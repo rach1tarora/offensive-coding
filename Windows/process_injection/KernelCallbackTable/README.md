@@ -11,4 +11,3 @@ We simply duplicate the existing table or overwrite the address with our own pay
 
 As this is a proof of concept, Explorer might crash. It's not recommended to run this on your machine; use a VM instead.
 
-![image](https://i.imgur.com/1zzBNVX.png)
